@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning cybersecurity at ESME!
 - 📫 How to reach me ? At nitrox@willidice.fr
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 1=1
 
 <!---
 Nitrox33/Nitrox33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
